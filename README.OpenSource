@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "either",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "1.8.1 ",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/bluss/either",
+    "Description": "A Rust library that provides a simple and efficient way to work with either/or types. "
+  }
+]
